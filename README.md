@@ -11,12 +11,15 @@ The back end for an E-Commerce website working with Express.js API to use Sequel
 - [Contact](#contact)
 
 ## Installation
-
+Clone repo to your computer, run an npm install, run npm run seed, run npm start or node server, open Insomnia
 
 ## Usage
+Video Walkthrough: 
 
+![Screenshot of Insomnia] (Assets/Screenshot 2021-11-25 191015.png)
 
 ## Credits
+My always reliable tutor & Ask BCS were able to help me complete this application
 
 ## License
 MIT License
