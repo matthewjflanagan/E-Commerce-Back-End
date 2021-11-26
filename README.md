@@ -16,8 +16,6 @@ Clone repo to your computer, run an npm install, run npm run seed, run npm start
 ## Usage
 Video Walkthrough: https://watch.screencastify.com/v/OQm5K0UMHu6zfjkiGxt4
 
-(Assets\insomniascreenshot.png)
-
 ## Credits
 My always reliable tutor & Ask BCS were able to help me complete this application
 
