@@ -14,9 +14,9 @@ The back end for an E-Commerce website working with Express.js API to use Sequel
 Clone repo to your computer, run an npm install, run npm run seed, run npm start or node server, open Insomnia
 
 ## Usage
-Video Walkthrough: 
+Video Walkthrough: https://watch.screencastify.com/v/OQm5K0UMHu6zfjkiGxt4
 
-![Screenshot of Insomnia] (Assets/Screenshot 2021-11-25 191015.png)
+![Insomnia] (Assets/insomniascreenshot.png)
 
 ## Credits
 My always reliable tutor & Ask BCS were able to help me complete this application
